@@ -1,0 +1,34 @@
+{
+  "name": "hacker-news-app",
+  "version": "1.0.0",
+  "description": "Simple UI redesign of the HN site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/laurahw/hacker-news-app"
+  },
+  "keywords": [
+    "hacker",
+    "news",
+    "angular",
+    "javascript",
+    "node",
+    "npm",
+    "gulp",
+    "ng-make"
+  ],
+  "author": "Laura Hanna-White",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8",
+    "run-sequence": "^2.2.1"
+  }
+}
